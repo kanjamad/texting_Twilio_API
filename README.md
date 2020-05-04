@@ -6,4 +6,4 @@ Technologies Used
 * Express.js
 * Twilio API
 
-![diagram](video.gif "diagram")
+
