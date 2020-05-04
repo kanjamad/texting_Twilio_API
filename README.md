@@ -1,6 +1,6 @@
 # Sending Text Message with Twilio
 
-![diagram](API.gif "diagram")
+![diagram](Twilio_API.gif "diagram")
 Technologies Used
 * React.js
 * Express.js
